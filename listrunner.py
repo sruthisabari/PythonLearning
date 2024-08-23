@@ -1,0 +1,5 @@
+n = int(input())
+arr = map(int, input().split())
+print(set(arr))
+#sortL =sorted(set(arr),reverse=True)
+#print(sortL[1])
